@@ -1,5 +1,5 @@
 # Automated-Job-Scraping-and-Data-Aggregation-Tool
-• A web scraping tool to automate the extraction of job listings from various job sites based on user-defined criteria.
+• A web scraping tool to automate the extraction of job listings from a job site based on user-defined criteria.
 
 • Implemented functionality to compile and organize the scraped data into an Excel spreadsheet, ensuring it is updated regularly.
 
